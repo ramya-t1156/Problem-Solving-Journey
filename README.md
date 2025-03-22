@@ -18,7 +18,6 @@ Each day's solution is organized in its own folder, named by the date (e.g., `20
 
 Follow my progress and connect with me on these platforms:
 
-- [LeetCode Profile](https://leetcode.com/u/ramya-t1156/)
 - [LinkedIn](https://www.linkedin.com/in/ramya-t-90a925291/)
 
 ---
