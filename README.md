@@ -9,7 +9,7 @@ Welcome to my **Problem-Solving-Journey**! This repository is where I track my d
 
 ## Repository Structure
 
-Each day's solution is organized in its own folder, named by the date (e.g., `2025-03-01`). Each folder includes:
+Each day's solution is organized in its own folder, named by the date (e.g., `2025-05-01`). Each folder includes:
 
 - Problem description
 - Solution code
