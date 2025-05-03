@@ -1,0 +1,19 @@
+// User function Template for Java
+
+class Solution {
+
+    ArrayList<Integer> nthRowOfPascalTriangle(int n) {
+        // code here
+        ArrayList<Integer> res = new ArrayList<>();
+        int prev = 1;
+        int next = 0;
+        res.add(1);
+        
+        for(int i = 1;i<n;i++){
+            next = prev*(n-i)/i;
+            res.add(next);
+            prev = next;
+        }
+        return res;
+    }
+}
