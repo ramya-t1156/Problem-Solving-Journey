@@ -5,7 +5,7 @@ class Solution {
                              StringBuilder result) {
         if (curr.compareTo(result.toString()) > 0) {
             result.replace(0, result.length(), curr);
-        }
+        } 
     }
 
   
